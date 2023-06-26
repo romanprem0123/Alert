@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Jost', sans-serif;
+}
+#container{
+	width:100%;
+	margin-top: 20px;
+}
+#container .container-box{
+	width:60%;
+	margin:0 auto;
+	padding: 20px;
+    border: 1px solid rgb(183 174 174);
+}
+.sec1{
+	background-color:rgb(207,226,255);
+	padding: 18px;
+	margin-top: 15px;
+	border-radius:4px;
+	color:rgb(88,112,156);
+	box-shadow: 0 0 3px rgb(98 137 185);
+}
+.sec2{
+	background-color:rgb(225,227,229);
+	padding: 18px;
+	margin-top: 15px;
+	border-radius:4px;
+	color:rgb(83,84,88);
+	box-shadow: 0 0 3px rgb(160 163 167);
+}
+.sec3{
+	background-color:rgb(209,230,221);
+	padding: 18px;
+	margin-top: 15px;
+	border-radius:4px;
+	color:rgb(56,90,77);
+	box-shadow: 0 0 3px rgb(111 160 139);
+}
+.sec4{
+	background-color:rgb(247,215,218);
+	padding: 18px;
+	margin-top: 15px;
+	border-radius:4px;
+	color:rgb(145,95,100);
+	box-shadow: 0 0 3px rgb(176 114 120);
+	
+}
+.sec5{
+	background-color:rgb(255,243,205);
+	padding: 18px;
+	margin-top: 15px;
+	border-radius:4px;
+	color:rgb(140,129,83);
+	box-shadow: 0 0 3px rgb(189 172 117);
+}
+.sec6{
+	background-color:rgb(207,244,252);
+	padding: 18px;
+	margin-top: 15px;
+	border-radius:4px;
+	color:rgb(78,126,135);
+	box-shadow: 0 0 3px rgb(135 180 189);
+}
+.sec7{
+	/* background-color:rgb(207,226,255); */
+	padding: 18px;
+	margin-top: 15px;
+	border-radius:4px;
+	color:rgb(147,147,147);
+	box-shadow: 0 0 3px rgb(178 175 175);
+}
+.sec8{
+	background-color:rgb(211,211,211);
+	padding: 18px;
+	margin-top: 15px;
+	border-radius:4px;
+	color:rgb(77,77,78);
+	box-shadow: 0 0 3px rgb(98 93 93);
+}
